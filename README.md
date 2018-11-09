@@ -16,7 +16,7 @@ snappy::Uncompress(input.data(), input.size(), &output);
 (where "input" and "output" are both instances of stf::string)
 ```
 
-Download Snappy and releated tools
+#### Download Snappy and releated tools
 ```
 git clone https://github.com/google/snappy.git
 apt install cmake
